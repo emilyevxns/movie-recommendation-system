@@ -1,0 +1,3 @@
+My project is titled "Find Your Flic" and I worked alone. My program allows for the user 
+to search for movies by year, genre, and also to fill out a brief, 8-question questionnaire 
+in order for movies to be recommended to the user.
